@@ -359,7 +359,7 @@ return sum;
 
 // Reflecting on this journey...
 // I initially found someone else's solution which turned out to work less well than my first couple of attempts.
-// I didn't notice this, but still learnt something new from that solution, and also fixed it so it worked as well
+// I didn't notice this (lol), but still learnt something new from that solution, and also fixed it so it worked as well
 // as my own attempts.
 // Then I found a much better solution which worked much faster than mine.
 // By figuring out its principles, I managed to replicate what it did, learning my first use of the reducer function.
