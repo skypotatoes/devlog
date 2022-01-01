@@ -1,0 +1,11 @@
+I've just realised the pages I upload here show up in alphanumeric order, 
+rather than chronological order, therefore I will start putting the file 
+names as YYYY_MM_DD_time rather than just a title.
+
+For anyone interested (beyond me), the order the existing files were 
+created was:
+
+sumOfIntervals.js 
+connect4.js 
+get_digits_and_exp.js 
+get_digits_and_exp_part2.js 
